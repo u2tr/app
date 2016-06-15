@@ -24,6 +24,9 @@ accounts-facebook
 materialize:materialize
 kadira:flow-router
 kadira:blaze-layout
-twbs:bootstrap
 fortawesome:fontawesome
 timmyg:wow
+zimme:active-route
+session
+dburles:google-maps
+mdg:geolocation
